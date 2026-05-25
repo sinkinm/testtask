@@ -2,12 +2,10 @@
 
 ## Artifacts
 
-- Issues (Bug Reports): [link]
-- Project Board (issues grouped by severity): [link]
-- Test Cases (6 structured sample scenarios): [link]
-- Functional Checklists: [link]
-- Test Report (PDF): [link]
-- GitHub Issues (defects)
+- Test Approach & Results (PDF): [https://github.com/sinkinm/testtask/blob/main/Testing%20Approach.pdf]
+- Issues (Bug Reports, grouped by severity): [https://github.com/users/sinkinm/projects/1/views/2?visibleFields=%5B%22Title%22%2C351177042%2C%22Labels%22%5D&sortedBy%5Bdirection%5D=desc&sortedBy%5BcolumnId%5D=351177042]
+- Functional Checklists: [https://github.com/sinkinm/testtask/blob/main/checklists.md]
+- Test Cases (6 structured sample scenarios): [https://github.com/sinkinm/testtask/blob/main/sample_test_cases.md]
 
 ---
 
@@ -71,16 +69,6 @@ Manual QA assessment of a web-based system focused on core business workflows, U
 - Data integrity issues exist between frontend representation and backend state
 - UI layer demonstrates inconsistent handling of edge cases in core components
 - Core business flows require stabilization before regression-level testing
-
----
-
-## Artifacts
-
-- GitHub Issues (defects)
-- GitHub Project Board (structured classification)
-- Functional checklists
-- Test cases (6 structured sample scenarios)
-- PDF test report (executive summary)
 
 ---
 
